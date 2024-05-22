@@ -19,7 +19,7 @@ public class MathUtilLive {
         long rs = MathUtil.getFactorial(5);
         System.out.println("5! = 120; actual: " + rs);
         
-        
+        System.out.println("hahahahahahahahahahahahahahaha");
     }
     
 }
